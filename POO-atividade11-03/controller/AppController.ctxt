@@ -1,0 +1,24 @@
+#BlueJ class context
+#Mon Nov 16 22:50:17 BRT 2026
+comment0.target=AppController
+comment1.target=AppController()
+comment10.target=void onAdicionarButtonAction()
+comment11.params=newSelection
+comment11.target=void handleInimigoSelected(view.Inimigo)
+comment12.params=location resources
+comment12.target=void initialize(java.net.URL, java.util.ResourceBundle)
+comment13.params=inimigo
+comment13.target=view.Inimigo modelToView(model.Inimigo)
+comment14.target=javafx.collections.ObservableList loadAllInimigos()
+comment2.params=args
+comment2.target=void main(java.lang.String[])
+comment3.params=adicionar atualizar deletar cancelar salvar
+comment3.target=void desabilitarBotoes(boolean, boolean, boolean, boolean, boolean)
+comment4.params=desabilitado
+comment4.target=void desabilitarCampos(boolean)
+comment5.target=void limparCampos()
+comment6.target=void onDeletarButtonAction()
+comment7.target=void onCancelarButtonAction()
+comment8.target=void onAtualizarButtonAction()
+comment9.target=void onSalvarButtonAction()
+numComments=15

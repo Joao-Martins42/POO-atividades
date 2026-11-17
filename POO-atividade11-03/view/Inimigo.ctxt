@@ -1,0 +1,26 @@
+#BlueJ class context
+#Mon Nov 16 22:09:36 BRT 2026
+comment0.target=Inimigo
+comment1.params=id nome vida dano
+comment1.target=Inimigo(int, java.lang.String, int, int)
+comment2.target=int getId()
+comment2.text=GET Method Propertie id
+comment3.params=id
+comment3.target=void setId(int)
+comment3.text=SET Method Propertie id
+comment4.target=java.lang.String getNome()
+comment4.text=GET Method Propertie nome
+comment5.params=nome
+comment5.target=void setNome(java.lang.String)
+comment5.text=SET Method Propertie nome
+comment6.target=int getVida()
+comment6.text=GET Method Propertie vida
+comment7.params=vida
+comment7.target=void setVida(int)
+comment7.text=SET Method Propertie vida
+comment8.target=int getDano()
+comment8.text=GET Method Propertie dano
+comment9.params=dano
+comment9.target=void setDano(int)
+comment9.text=SET Method Propertie dano
+numComments=10

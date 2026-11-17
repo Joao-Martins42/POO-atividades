@@ -1,0 +1,17 @@
+#BlueJ class context
+#Mon Nov 16 21:31:58 BRT 2026
+comment0.target=InimigoRepositorio
+comment1.params=database
+comment1.target=InimigoRepositorio(Database)
+comment2.params=database
+comment2.target=void setDatabase(Database)
+comment3.params=inimigo
+comment3.target=Inimigo create(Inimigo)
+comment4.params=Inimigo
+comment4.target=void update(Inimigo)
+comment5.params=Inimigo
+comment5.target=void delete(Inimigo)
+comment6.params=id
+comment6.target=Inimigo loadFromId(int)
+comment7.target=java.util.List loadAll()
+numComments=8
